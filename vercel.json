@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/widget.mjs": {
+      "includeFiles": "{config.json,fonts/*.woff2,assets/pfp.jpg,assets/coco*.png}"
+    }
+  },
+  "rewrites": [
+    { "source": "/health", "destination": "/api/widget?w=health" },
+    { "source": "/:widget(hero|stats|music)-:mode(light|dark).svg", "destination": "/api/widget?w=:widget&m=:mode" }
+  ]
+}
