@@ -1,0 +1,89 @@
+{
+  "handle": "cocomeshy",
+  "say": "ko-ko-mesh-ee",
+  "headline": [
+    "hi, i'm coco.",
+    "i make things"
+  ],
+  "headline_italic": "the proper way.",
+  "subline": "software, long walks, and baking everything from scratch.",
+  "stats": [
+    [
+      "{age}",
+      "years old"
+    ],
+    [
+      "{repos}",
+      "public repos"
+    ],
+    [
+      "{scrobbles}",
+      "songs scrobbled"
+    ],
+    [
+      "0",
+      "corners cut"
+    ]
+  ],
+  "about": "local christian deer from the meadows. i write code, go on long walks, and cook or bake from scratch. usually listening to music or out finding new spots. always down to meet fun people, learn random things, and practice other languages.",
+  "github_user": "cocomeshy",
+  "lastfm_user": "cocomeshy",
+  "timezone": "Europe/Stockholm",
+  "day": [
+    [
+      0,
+      "cocoSleep",
+      "probably asleep"
+    ],
+    [
+      7,
+      "cocoYawning",
+      "just woke up"
+    ],
+    [
+      10,
+      "cocoSip",
+      "slow morning"
+    ],
+    [
+      13,
+      "cocoReading",
+      "probably coding"
+    ],
+    [
+      18,
+      "cocoDaydream",
+      "out on a walk, maybe"
+    ],
+    [
+      21,
+      "cocoNoThoughts",
+      "winding down"
+    ]
+  ],
+  "links": [
+    {
+      "id": "discord",
+      "label": "message me on discord",
+      "url": "https://discord.com/users/1433331742852255919",
+      "primary": true
+    },
+    {
+      "id": "telegram",
+      "label": "telegram",
+      "url": "https://t.me/cocomeshy"
+    },
+    {
+      "id": "lastfm",
+      "label": "last.fm",
+      "url": "https://www.last.fm/user/cocomeshy"
+    }
+  ],
+  "fallback": {
+    "repos": "14",
+    "scrobbles": "—",
+    "track": "nothing playing yet",
+    "artist": "add your last.fm username to go live",
+    "age": "18"
+  }
+}
