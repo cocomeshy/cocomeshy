@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="hi, i'm coco. i make things the proper way." src="./assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cocomeshy-readme.vercel.app/hero-dark.svg">
+  <img alt="hi, i'm coco. i make things the proper way." src="https://cocomeshy-readme.vercel.app/hero-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <img alt="" src="./assets/stats-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cocomeshy-readme.vercel.app/stats-dark.svg">
+  <img alt="" src="https://cocomeshy-readme.vercel.app/stats-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -15,8 +15,8 @@
 
 <a href="https://www.last.fm/user/cocomeshy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/music-dark.svg">
-    <img alt="what i'm listening to on last.fm" src="./assets/music-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cocomeshy-readme.vercel.app/music-dark.svg">
+    <img alt="what i'm listening to on last.fm" src="https://cocomeshy-readme.vercel.app/music-light.svg" width="100%">
   </picture>
 </a>
 
